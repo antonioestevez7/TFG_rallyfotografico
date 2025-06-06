@@ -1,0 +1,2 @@
+admin: admin@rally.es  Pw: 12345
+participante: ana@email.com Pw:123456
